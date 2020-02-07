@@ -1,5 +1,8 @@
 .gradle
-/build/
+*/.idea/*
+sandbox/build/*
+
+
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -12,3 +15,8 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+sandbox/build/test-results/test/binary/results.bin
+sandbox/build/test-results/test/binary/output.bin.idx
+sandbox/build/test-results/test/binary/output.bin
+sandbox/build/reports/tests/test/js/report.js
+sandbox/build/classes/java/main/MyFirstProgram.class

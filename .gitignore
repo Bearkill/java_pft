@@ -20,3 +20,5 @@ sandbox/build/test-results/test/binary/output.bin.idx
 sandbox/build/test-results/test/binary/output.bin
 sandbox/build/reports/tests/test/js/report.js
 sandbox/build/classes/java/main/MyFirstProgram.class
+.idea/jarRepositories.xml
+\java_pft\addressbook-web-tests\build\*

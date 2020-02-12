@@ -1,6 +1,7 @@
 .gradle
 */.idea/*
 sandbox/build/*
+*/build/*
 
 
 
